@@ -107,7 +107,6 @@ html[lang="en"] .es-only { display: none; }
 .contact-strip h2 { margin-top: 0; }
 
 .results li { font-weight: 600; }
-.learned { font-size: 1.15rem; font-style: italic; border-left: 4px solid var(--accent); padding-left: 1rem; }
 .skills { display: flex; flex-wrap: wrap; gap: .4rem; list-style: none; padding: 0; }
 .skills li { border: 1px solid var(--line); background: var(--surface); padding: .15rem .7rem; border-radius: 999px; }
 
@@ -163,10 +162,8 @@ html[lang="en"] .es-only { display: none; }
 .bar-after { background: var(--accent); }
 .deck.is-js .slide:not(.is-active) .bar-fill { width: 0; }
 
-.lesson-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
 .lesson-box { border: 1px solid var(--line); border-radius: 8px; padding: 1rem 1.1rem; }
 .lesson-box h4 { margin: 0 0 .5rem; font-size: 1rem; }
-.lesson-box .learned { margin-bottom: 0; }
 .lesson-diff { background: var(--bg); }
 .lesson-diff p { margin-bottom: 0; }
 
@@ -245,7 +242,7 @@ html[lang="en"] .es-only { display: none; }
 
 /* ---- Ink & Champagne + Deck 2.0 (mockups/mock-style.html, chosen 24 Nov) ---- */
 body::before { content: ""; position: fixed; inset: 0; background: var(--grain); opacity: .035; pointer-events: none; z-index: 50; }
-h1, h2, h3, .card-title, .chip-v, .proof strong, .hl strong, .side-big, .learned, .cv-name, .brand { font-family: var(--serif); font-weight: 600; letter-spacing: -.005em; }
+h1, h2, h3, .card-title, .chip-v, .proof strong, .hl strong, .side-big, .cv-name, .brand { font-family: var(--serif); font-weight: 600; letter-spacing: -.005em; }
 h4, .slide-title { font-family: inherit; }
 .site-header { background: rgba(251, 249, 244, .92); border-bottom-color: var(--line); }
 .brand { font-size: 1.08rem; }
@@ -305,15 +302,16 @@ h2 { font-size: 1.85rem; margin-top: 3rem; }
 
 .deck { background: none; border: 0; border-radius: 0; }
 .deck:focus-visible { outline-offset: 6px; border-radius: 22px; }
-.slide { padding: 0; display: grid; grid-template-columns: 280px 1fr; border-radius: 22px; overflow: hidden; background: var(--surface); border: 1px solid var(--line); box-shadow: 0 30px 60px -40px rgba(0, 0, 0, .45); }
+.slide { padding: 0; display: grid; grid-template-columns: 1fr; border-radius: 22px; overflow: hidden; background: var(--surface); border: 1px solid var(--line); box-shadow: 0 30px 60px -40px rgba(0, 0, 0, .45); }
 .deck:not(.is-js) .slide + .slide { border-top: 1px solid var(--line); margin-top: 1rem; }
-.deck.is-js .slide { min-height: 22rem; }
+.deck.is-js .slide { min-height: 0; }
 .slide[hidden] { display: none; }
-.slide-side { position: relative; padding: 1.8rem 1.6rem; color: var(--on-dark); display: flex; flex-direction: column; background: radial-gradient(500px 300px at 120% -20%, var(--glow), transparent 60%), linear-gradient(160deg, var(--dark), var(--deep2)); }
+.slide-side { position: relative; padding: 1.4rem 2.2rem; color: var(--on-dark); display: flex; flex-wrap: wrap; align-items: center; gap: .4rem 1.4rem; background: radial-gradient(500px 300px at 120% -20%, var(--glow), transparent 60%), linear-gradient(160deg, var(--dark), var(--deep2)); }
 .slide-side::after { content: ""; position: absolute; inset: 0; background: var(--grain); opacity: .1; mix-blend-mode: overlay; pointer-events: none; }
-.side-k { position: relative; z-index: 1; font-size: .74rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--bright); margin: 0; }
-.side-big { position: relative; z-index: 1; font-size: clamp(1.9rem, 3vw, 2.5rem); line-height: 1.08; margin: auto 0 .6rem; padding-top: 1.4rem; color: #fff; overflow-wrap: anywhere; }
-.side-l { position: relative; z-index: 1; margin: 0; color: var(--on-dark-muted); font-size: .95rem; }
+.side-k { flex-basis: 100%; position: relative; z-index: 1; font-size: .74rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--bright); margin: 0; }
+.side-big { position: relative; z-index: 1; font-size: clamp(1.9rem, 3vw, 2.5rem); line-height: 1.08; margin: 0; color: #fff; overflow-wrap: anywhere; }
+.side-l { flex: 1 1 22ch; max-width: 60ch; position: relative; z-index: 1; margin: 0; color: var(--on-dark-muted); font-size: 1rem; }
+.side-text .side-big { flex: 1 1 100%; max-width: 62ch; font-size: clamp(1.15rem, 2vw, 1.4rem); line-height: 1.35; }
 .slide-body { padding: 2rem 2.2rem; min-width: 0; }
 .slide-title { font-size: 1.5rem; font-family: var(--serif); }
 .slide-n { display: none; }
@@ -332,7 +330,6 @@ h2 { font-size: 1.85rem; margin-top: 3rem; }
 .bar-track { height: .7rem; background: var(--line); }
 .bar-before { background: repeating-linear-gradient(135deg, #8b8f97 0 6px, #a7aab0 6px 12px); }
 .bar-after { background: linear-gradient(90deg, var(--accent), var(--bright)); }
-.learned { font-size: 1.3rem; font-style: normal; border-left-color: var(--bright); }
 .lesson-box { border-radius: var(--radius); }
 .lesson-diff { background: var(--accent-soft); border-color: transparent; }
 .dg-box { stroke: var(--accent); }
@@ -364,7 +361,7 @@ h2 { font-size: 1.85rem; margin-top: 3rem; }
   .hero-grid, .about-story, .beyond { grid-template-columns: 1fr; }
   .hero-photo { max-width: 300px; order: -1; }
   .about-photo, .beyond-photo { max-width: 320px; }
-  .proof, .bring, .quotes, .lesson-grid, .case-tabs { grid-template-columns: 1fr; }
+  .proof, .bring, .quotes, .case-tabs { grid-template-columns: 1fr; }
   .proof li, .proof li:nth-child(n+4) { grid-column: auto; }
   .deck.is-js .slide { min-height: 0; }
   .bar-row { grid-template-columns: 3.8rem 1fr 5.6rem; }
@@ -381,7 +378,8 @@ h2 { font-size: 1.85rem; margin-top: 3rem; }
 @media (max-width: 860px) {
   .slide { grid-template-columns: 1fr; border-radius: 18px; }
   .slide-side { padding: 1.2rem 1.3rem; }
-  .side-big { font-size: 1.9rem; margin-top: .4rem; padding-top: .4rem; }
+  .side-big { font-size: 1.9rem; }
+  .side-text .side-big { font-size: 1.15rem; }
   .slide-body { padding: 1.3rem; }
   .deck-steps { grid-template-columns: repeat(5, auto); overflow-x: auto; }
   .deck-steps button { white-space: nowrap; }
