@@ -1,0 +1,1043 @@
+{
+  "meta": {
+    "skip": "Skip to content",
+    "toggle_short": "ES",
+    "toggle_label": "ES, ver en español",
+    "menu": "Menu",
+    "og_locale": "en_US"
+  },
+  "nav": {
+    "home": "Home",
+    "cases": "Case studies",
+    "about": "About",
+    "testimonials": "Testimonials",
+    "cv": "CV",
+    "contact": "Contact",
+    "label": "Main"
+  },
+  "pages": {
+    "home": {
+      "title": "Giuseppe Adriano Di Benedetto | People, Operations & Project Manager",
+      "description": "7+ years at Amazon leading people in customer support and learning. I put people at the centre, together with technology."
+    },
+    "cases": {
+      "title": "Case studies | Giuseppe Adriano Di Benedetto",
+      "description": "Eight case studies in customer support, people and tools, as interactive slides with the starting numbers and the results."
+    },
+    "about": {
+      "title": "About | Giuseppe Adriano Di Benedetto",
+      "description": "My career story, from Italy and Ryanair to 7+ years at Amazon, plus languages, education and writing."
+    },
+    "testimonials": {
+      "title": "Testimonials | Giuseppe Adriano Di Benedetto",
+      "description": "Five LinkedIn recommendations from people I have worked with, shown in full."
+    },
+    "cv": {
+      "title": "CV | Giuseppe Adriano Di Benedetto",
+      "description": "The public version of my CV, online and as a PDF."
+    },
+    "contact": {
+      "title": "Contact | Giuseppe Adriano Di Benedetto",
+      "description": "Get in touch by email or on LinkedIn."
+    },
+    "notfound": {
+      "title": "Page not found | Giuseppe Adriano Di Benedetto",
+      "description": "This page does not exist."
+    }
+  },
+  "img": {
+    "headshot": "Giuseppe Adriano Di Benedetto, portrait",
+    "portrait": "Giuseppe Adriano Di Benedetto, smiling, on a trip",
+    "casual": "Giuseppe sitting on stone steps with his dog, Ciak"
+  },
+  "home": {
+    "headline": "People, Operations & Project Manager",
+    "subline": "Customer Support · Learning & Development",
+    "value": "7+ years at Amazon leading people in customer support and learning. I put people at the centre, together with technology.",
+    "based": "Based in Castellón de la Plana, Spain. Open to remote work (EU/EMEA) and to relocating to Galicia.",
+    "cta_cases": "See case studies",
+    "cta_linkedin": "LinkedIn",
+    "cta_contact": "Contact",
+    "proof_title": "In numbers",
+    "proof": [
+      {
+        "num": "7+",
+        "label": "years at Amazon"
+      },
+      {
+        "num": "300+",
+        "label": "people led across 3 departments: Selling Partner Support, new hire onboarding and Learning"
+      },
+      {
+        "num": "5/5",
+        "label": "manager satisfaction, voted monthly by all my direct reports. The first supervisor in EMEA to reach it, with a team of 30, twice the usual size"
+      },
+      {
+        "num": "10",
+        "label": "promotions in one year, the highest for a single team in my department"
+      },
+      {
+        "num": "5",
+        "label": "consecutive years rated above expectations"
+      }
+    ],
+    "featured_title": "Case studies",
+    "featured_all": "See all 8 as interactive slides",
+    "quotes_title": "What people say",
+    "quotes_more": "Read the full recommendations",
+    "contact_title": "Let's talk",
+    "contact_text": "Looking for someone who leads people and fixes how the work gets done? Write to me.",
+    "contact_email": "Email me",
+    "contact_linkedin": "Connect on LinkedIn",
+    "intro_title": "Hi, I'm Adriano",
+    "intro": [
+      "I'm a people, operations and project manager, and I put human talent at the centre of everything I do, together with technology.",
+      "My vision is a team where everyone feels important and everyone pulls in the same direction. A good manager doesn't know everything: they know which people to surround themselves with. I learn from my team, and I give them everything I know.",
+      "In 7+ years at Amazon I have worked with customers and vendors in support, then led onboarding for new hires, then moved into Learning & Development. I have run projects at local, national and international scale, always with a structured approach, a clear root cause and tangible results.",
+      "If you're building a team where people and technology grow together, I'd like to hear about it."
+    ],
+    "bring_title": "What I bring",
+    "bring": [
+      {
+        "title": "Numbers into action",
+        "text": "I dive deep into the data, find the root cause and turn it into a plan people can follow."
+      },
+      {
+        "title": "Empowerment",
+        "text": "I give people real ownership roles, so the team can run itself. In one year, 10 people on my team were promoted."
+      },
+      {
+        "title": "Stakeholder management",
+        "text": "From frontline associates to global program managers, I bring the operations view and back it with data."
+      },
+      {
+        "title": "Clear communication",
+        "text": "Written and spoken, adapted to who is listening. Certified facilitator for mid-level leadership training."
+      },
+      {
+        "title": "Always improving",
+        "text": "With AI as my coding partner I built 3 tools now used across multiple sites, with no development team."
+      },
+      {
+        "title": "Challenges are opportunities",
+        "text": "A hard problem is where a well-led team grows beyond what anyone expected."
+      }
+    ],
+    "badges": [
+      "Certified facilitator, mid-level leadership",
+      "AI & automation builder: 3 tools, multiple sites",
+      "3 languages: English, Spanish, Italian"
+    ],
+    "badges_label": "Also",
+    "story": "From aviation to people manager at Amazon, now building my own tools with AI.",
+    "featured_more": "More case studies"
+  },
+  "tags": {
+    "label": "Areas",
+    "support": "Support",
+    "people": "People",
+    "learning": "Learning",
+    "operations": "Operations",
+    "tools": "Tools"
+  },
+  "cases_page": {
+    "h1": "Case studies",
+    "intro": "Eight stories from my work at Amazon, in three groups: support, people and tools. Each one is a short deck: the situation, the challenge with the starting numbers, what I did myself, the result and what I would do differently.",
+    "tabs_label": "Choose a case study",
+    "group_label": "Group"
+  },
+  "cs_t": {
+    "situation": "Situation",
+    "challenge": "Challenge",
+    "impact": "My impact",
+    "result": "Result",
+    "lesson": "Lesson",
+    "learned": "What I learned",
+    "different": "What I'd do differently",
+    "skills": "Skills used",
+    "prev": "Previous",
+    "next": "Next",
+    "progress": "Slide {n} of {total}",
+    "before": "Before",
+    "after": "After",
+    "deck_label": "Slides",
+    "quote_title": "From someone who was on this team",
+    "quote_link": "Read the full recommendation",
+    "chip_from": "from",
+    "chip_to": "to",
+    "diagram_label": "How it works",
+    "side_steps": "steps, only what I did myself"
+  },
+  "cs": {
+    "cs1": {
+      "title": "The vendor who wanted to leave",
+      "summary": "Their case history showed why they wanted to leave. The same day, they chose to stay.",
+      "situation": [
+        "As a Selling Partner Support manager, a high-volume vendor contacted me because they wanted to leave."
+      ],
+      "start": {
+        "num": "Under 50%",
+        "label": "resolution across their 300+ cases in the previous 30 days"
+      },
+      "challenge": [
+        "40+ open cases when they contacted me, and 300+ cases in the previous 30 days.",
+        "Only about 10 of the 40+ open cases were new issues. All the others were follow-ups or unresolved problems, re-explained from zero every time.",
+        "By the vendor's own estimate, they had six-figure monthly sales blocked."
+      ],
+      "impact": [
+        "I ran a dive deep on the case history, which showed the follow-up loop.",
+        "I called the vendor directly.",
+        "I explained the premium support option: a paid, dedicated service with direct channels and more freedom of action.",
+        "I built the business case: a low fixed monthly fee, a tiny fraction of the sales at risk. The target was resolution from under 50% to at least 65-70%, roughly halving the losses, without giving up the rest of their sales on Amazon."
+      ],
+      "highlights": [
+        {
+          "num": "Same day",
+          "label": "the vendor subscribed to premium support and stayed"
+        },
+        {
+          "num": "Seven-figure",
+          "label": "annual revenue vendor retained, still a premium support customer today"
+        }
+      ],
+      "bars": [],
+      "result": [
+        "The vendor moved to a dedicated support tier with a much higher resolution rate."
+      ],
+      "lesson": "Churn risk shows up in the case history long before it shows up in revenue.",
+      "different": "I wouldn't wait for a vendor to threaten to leave: several open cases at once are already a signal. From that moment I made it a routine: every Monday I reviewed the team's cases by vendor and status (resolved, reopened, sent to tech support) to spot patterns early.",
+      "skills": [
+        "Escalation management",
+        "Root cause analysis",
+        "Business case writing",
+        "Voice of the customer"
+      ],
+      "problem": "A high-volume vendor wanted to leave after 300+ cases in 30 days.",
+      "chips": [
+        {
+          "from": "",
+          "to": "Same day",
+          "label": "the vendor chose premium support and stayed"
+        }
+      ]
+    },
+    "cs2": {
+      "title": "A global quality pilot, with a first-line view",
+      "summary": "The only first-line manager in a worldwide lead team: negative responses from above 65% to under 54% in 8 weeks.",
+      "situation": [
+        "Reducing negative seller responses became the main focus of the business.",
+        "A worldwide pilot was announced at a roundtable and supervisors pushed back, worried about workload. I shared the operations point of view with the senior leader behind it and was invited into the pilot's lead team."
+      ],
+      "start": {
+        "num": "Above 65%",
+        "label": "negative response rate, against a goal of under 50%"
+      },
+      "challenge": [
+        "Outcome accuracy was at 78.92% and the reopen rate at 14.25%.",
+        "There were no shared attributes to assess a seller interaction, and no structured way to decide who needed coaching first.",
+        "Supervisors doubted the goal was realistic and feared more workload."
+      ],
+      "impact": [
+        "I was the only first-line manager in a senior worldwide lead team.",
+        "I designed the assessment attributes and wrote the code of the audit form, with the development team supporting the implementation.",
+        "With the quality managers, I defined a 3-tier audit mechanism to set coaching urgency, and made it possible to delegate audits to subject matter experts.",
+        "I introduced the pilot in 4 training sessions and selected 51 supervisors, plus 51 in a mirror group. 2 office hours per week covered every time zone.",
+        "I ran the 6-week pilot, with weekly completion checks and regular flash updates."
+      ],
+      "highlights": [
+        {
+          "num": "8 weeks",
+          "label": "to bring the negative response rate under 54%"
+        },
+        {
+          "num": "Worldwide",
+          "label": "the assessment attributes I designed later became the global quality standard"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Negative response rate",
+          "from_t": "above 65%",
+          "to_t": "under 54%",
+          "from": 65,
+          "to": 54,
+          "max": 100,
+          "lower": true
+        },
+        {
+          "label": "Outcome accuracy",
+          "from_t": "78.92%",
+          "to_t": "86.92%",
+          "from": 78.92,
+          "to": 86.92,
+          "max": 100,
+          "lower": false
+        },
+        {
+          "label": "Reopen rate",
+          "from_t": "14.25%",
+          "to_t": "13.07%",
+          "from": 14.25,
+          "to": 13.07,
+          "max": 20,
+          "lower": true
+        }
+      ],
+      "result": [
+        "Supervisors moved from pushback to asking to join future pilots, and the tiered audit mechanism was adopted beyond the pilot."
+      ],
+      "lesson": "A project built on solid foundations brings benefits nobody planned. The goal was the negative response rate, but working on case quality also lifted outcome accuracy by 8 points.",
+      "different": "I would build the learning path before launch. The Q&A office hours helped, but a short course and a support resource would have made the new method much easier for managers and teams.",
+      "skills": [
+        "Program design",
+        "Quality audits",
+        "Stakeholder management",
+        "Change management"
+      ],
+      "problem": "Negative seller responses stuck above the goal, and supervisors feared more workload.",
+      "chips": [
+        {
+          "from": "above 65%",
+          "to": "under 54%",
+          "label": "negative response rate"
+        },
+        {
+          "from": "78.92%",
+          "to": "86.92%",
+          "label": "outcome accuracy"
+        },
+        {
+          "from": "14.25%",
+          "to": "13.07%",
+          "label": "reopen rate"
+        }
+      ]
+    },
+    "cs3": {
+      "title": "Unblocking 100+ brand owners without waiting for the fix",
+      "summary": "A broken role assignment, proven with a test user and data: reopen rate from 100% to 7.3%, and 300+ cases resolved in 5 weeks.",
+      "situation": [
+        "In 2022 I managed the only team skilled in brand support at the time.",
+        "A global entertainment brand and other EMEA brand owners escalated: after completing the required e-learning, their representatives still did not get the brand role, so they could not manage listings, campaigns, permissions or brand images."
+      ],
+      "start": {
+        "num": "0%",
+        "label": "of these cases resolved: 100% of them reopened"
+      },
+      "challenge": [
+        "Resolution on the whole queue was under 10%.",
+        "The procedure did not help, and the backlog was growing."
+      ],
+      "impact": [
+        "I replicated the whole process with a test user: certificate issued, role still missing.",
+        "I found the role assignment step was never triggered, and a manual grant needed Program Manager approval.",
+        "I used queue data to prove an EMEA-wide failure and took it to the global Program Manager and the brand's vendor manager.",
+        "The technical fix needed about 6 weeks, so I proposed a dedicated ticket route for manual role assignment. It was accepted.",
+        "I upskilled 30 associates on the new route."
+      ],
+      "highlights": [
+        {
+          "num": "300+",
+          "label": "cases resolved in 5 weeks"
+        },
+        {
+          "num": "100+",
+          "label": "brand owners unblocked"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Reopen rate on this issue",
+          "from_t": "100%",
+          "to_t": "7.3%",
+          "from": 100,
+          "to": 7.3,
+          "max": 100,
+          "lower": true
+        },
+        {
+          "label": "Resolution on the whole queue",
+          "from_t": "under 10%",
+          "to_t": "about 85%",
+          "from": 10,
+          "to": 85,
+          "max": 100,
+          "lower": false
+        }
+      ],
+      "result": [
+        "What was left were the normal issues of any support queue, and the permanent technical fix followed."
+      ],
+      "lesson": "Fix the root cause, prove it with data, involve the right people, and don't leave customers waiting six weeks for the permanent fix.",
+      "different": "I would train my associates to raise their hand when similar cases pile up. One case is a ticket; ten similar cases are a pattern that needs a root cause view.",
+      "skills": [
+        "Root cause analysis",
+        "Process design",
+        "Stakeholder management",
+        "Escalation management"
+      ],
+      "problem": "Brand owners finished the required e-learning but never got the brand role.",
+      "chips": [
+        {
+          "from": "100%",
+          "to": "7.3%",
+          "label": "reopen rate"
+        },
+        {
+          "from": "under 10%",
+          "to": "about 85%",
+          "label": "queue resolution"
+        },
+        {
+          "from": "",
+          "to": "300+",
+          "label": "cases resolved in 5 weeks"
+        }
+      ]
+    },
+    "cs4": {
+      "title": "From a team of 30 to 10 promotions in a year",
+      "summary": "Ownership roles for a remote team of 30: job satisfaction from 3.5 to 4.7 and 10 promotions in one year.",
+      "situation": [
+        "In 2021 my team grew to 30 people, fully remote, as part of a pilot of larger teams."
+      ],
+      "start": {
+        "num": "3.5 / 5",
+        "label": "job satisfaction at the low point, with manager satisfaction at 4.2"
+      },
+      "challenge": [
+        "With 30 people there is less one-to-one time, and a real risk that relationships become impersonal."
+      ],
+      "impact": [
+        "I gave 16 associates 8 ownership roles matched to their career goals, so the team could run itself. Each role sent a monthly one-pager, and the roles were reshuffled every quarter.",
+        "I was selected as owner of new hires and onboarding, and built the structure with my team: 130+ new hires onboarded and 100+ structured interviews run.",
+        "The ownership-roles team supported the new hires during their ramp-up. My coordinator practised the supervisor role as their mentor, with a role guide I wrote. The role became the department's national standard.",
+        "I opened weekly mock-interview slots, 2 hours a week for 6 months. All 10 people later promoted attended."
+      ],
+      "highlights": [
+        {
+          "num": "10",
+          "label": "team members promoted in one year"
+        },
+        {
+          "num": "91%",
+          "label": "probation success among the people I hired"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Job satisfaction",
+          "from_t": "3.5/5",
+          "to_t": "4.7/5",
+          "from": 3.5,
+          "to": 4.7,
+          "max": 5,
+          "lower": false
+        },
+        {
+          "label": "Manager satisfaction",
+          "from_t": "4.2/5",
+          "to_t": "5/5",
+          "from": 4.2,
+          "to": 5,
+          "max": 5,
+          "lower": false
+        }
+      ],
+      "result": [
+        "My coordinator moved into her first leadership role, and her new-hire team ranked #1 in quality across the site for a full month.",
+        "Onboarding: +8% accuracy and -12% handling time."
+      ],
+      "lesson": "A large team is both a risk and an opportunity. The more people you lead, the less one-to-one time you have. So people need to feel part of something and see their manager in the small things: catch-ups, feedback, delegation. Plus some healthy competition.",
+      "different": "I wouldn't make every ownership role voluntary: training all the volunteers took a huge effort up front. I would choose one person per role, among those who wanted it, and pair them with someone eager to learn.",
+      "skills": [
+        "People leadership",
+        "Talent development",
+        "Behavioral interviewing",
+        "Onboarding design"
+      ],
+      "problem": "My remote team grew to 30 people, and job satisfaction dropped.",
+      "chips": [
+        {
+          "from": "3.5",
+          "to": "4.7",
+          "label": "job satisfaction"
+        },
+        {
+          "from": "4.2",
+          "to": "5/5",
+          "label": "manager satisfaction"
+        },
+        {
+          "from": "",
+          "to": "10",
+          "label": "promotions in one year"
+        }
+      ]
+    },
+    "cs5": {
+      "title": "100+ new hires: a ramp-up tracked to day 90, adopted globally",
+      "summary": "Tracking new hires to day 90 instead of day 45: quality audit accuracy from 83.5% to 89%, now used for every new-hire batch worldwide.",
+      "situation": [
+        "In 2023-2024 I supervised all the new hires joining my department: 100+ people, across several skills and marketplaces.",
+        "The global deck that tracked them stopped at 45 days, mixed feedback from different sites and had no benchmarks."
+      ],
+      "start": {
+        "num": "83.5%",
+        "label": "new-hire quality audit accuracy"
+      },
+      "challenge": [
+        "In my own team, the reopen rate was 12.4%, against an 8.5% target, and tenure was under 1 year.",
+        "The deck arrived just before the review meeting, with no time to analyze it."
+      ],
+      "impact": [
+        "I got senior leadership approval to redesign the deck.",
+        "With the trainers, I added a site view against a historical benchmark, extended tracking from 45 to 90 days, created a shared feedback template and moved the send to Monday, before the review.",
+        "Inside my team I set up a dive deep group with 5 ownership roles: weekly case reviews, 3-tier coaching and an automatic email on controllable misses."
+      ],
+      "highlights": [
+        {
+          "num": "100%",
+          "label": "of new-hire batches worldwide tracked with the new deck"
+        },
+        {
+          "num": "1,500+",
+          "label": "cases reviewed by my team's dive deep group"
+        },
+        {
+          "num": "3 of 3",
+          "label": "associates on a focus plan in my team improved and exited it"
+        }
+      ],
+      "bars": [
+        {
+          "label": "New-hire quality audit accuracy",
+          "from_t": "83.5%",
+          "to_t": "89%",
+          "from": 83.5,
+          "to": 89,
+          "max": 100,
+          "lower": false
+        },
+        {
+          "label": "Reopen rate in my team, in 3 months",
+          "from_t": "12.4%",
+          "to_t": "8.5%",
+          "from": 12.4,
+          "to": 8.5,
+          "max": 15,
+          "lower": true
+        }
+      ],
+      "result": [
+        "Handling time improved by about 8%.",
+        "The dive deep model was extended across the organization: 12 ownership roles and 1 coordinator."
+      ],
+      "lesson": "Training doesn't end on the last day of class. The first 90 days decide how good a new hire becomes, so that is the window to measure and coach.",
+      "different": "I would build the benchmark and the 90-day view before the first batch starts, instead of redesigning the deck once it was already running.",
+      "skills": [
+        "Onboarding design",
+        "Quality coaching",
+        "Data analysis",
+        "Stakeholder management"
+      ],
+      "problem": "The global new-hire deck stopped at 45 days and had no benchmarks.",
+      "chips": [
+        {
+          "from": "83.5%",
+          "to": "89%",
+          "label": "new-hire quality audit accuracy"
+        },
+        {
+          "from": "12.4%",
+          "to": "8.5%",
+          "label": "reopen rate in my team"
+        },
+        {
+          "from": "",
+          "to": "100%",
+          "label": "of new-hire batches worldwide tracked"
+        }
+      ]
+    },
+    "cs6": {
+      "title": "A national learning portal, built without a development team",
+      "summary": "Built on my own with Claude Opus 5.0: admin from 3 to 7 hours to 1 to 2 hours per trainer per week, across 10 sites.",
+      "situation": [
+        "Trainers and local managers across Amazon's fulfillment network in Spain handled about 20 recurring tasks through different processes and data sources. Senior managers had no national view."
+      ],
+      "start": {
+        "num": "3 to 7 hours",
+        "label": "of admin per trainer, every week"
+      },
+      "challenge": [
+        "No consistent way to oversee trainer quality, performance and hours across sites."
+      ],
+      "impact": [
+        "I designed and built a national learning portal on my own, using Claude Opus 5.0 as my coding partner, from the first idea to rollout.",
+        "From first build to version 3.5.9, with 190+ incremental updates shaped by trainer feedback.",
+        "One access point: local managers see their site, senior managers see the whole country."
+      ],
+      "highlights": [
+        {
+          "num": "100%",
+          "label": "of instructors nationally meeting their performance, quality and hours targets"
+        },
+        {
+          "num": "10 sites",
+          "label": "in Spain use it every day"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Admin time per trainer per week",
+          "from_t": "3 to 7 hours",
+          "to_t": "1 to 2 hours",
+          "from": 7,
+          "to": 2,
+          "max": 7,
+          "lower": true
+        },
+        {
+          "label": "User satisfaction (out of 5)",
+          "from_t": "3.8",
+          "to_t": "4.4",
+          "from": 3.8,
+          "to": 4.4,
+          "max": 5,
+          "lower": false
+        }
+      ],
+      "result": [
+        "Senior managers now have the national view in one place."
+      ],
+      "lesson": "You don't always need a development team or a long tech project. Understand the operational problem first, then use AI well.",
+      "different": "I would document as I build: the logic, data sources and calculations, in a guide that also trains whoever comes next.",
+      "skills": [
+        "JavaScript",
+        "AI-assisted development (Claude Opus 5.0)",
+        "Data modeling",
+        "User research with trainers"
+      ],
+      "problem": "Trainers lost hours to admin every week, and senior managers had no national view.",
+      "chips": [
+        {
+          "from": "3 to 7 h",
+          "to": "1 to 2 h",
+          "label": "admin per trainer per week"
+        },
+        {
+          "from": "3.8",
+          "to": "4.4",
+          "label": "user satisfaction"
+        },
+        {
+          "from": "",
+          "to": "10 sites",
+          "label": "in daily use in Spain"
+        }
+      ],
+      "diagram": {
+        "title": "How the national learning portal works",
+        "desc": "Trainer tasks and different data sources go into one national learning portal. Local managers see their site; senior managers see the whole country.",
+        "rows": [
+          [
+            [
+              "Trainer tasks",
+              "about 20, recurring"
+            ],
+            [
+              "Data sources",
+              "different processes"
+            ]
+          ],
+          [
+            [
+              "National learning portal",
+              "one access point"
+            ]
+          ],
+          [
+            [
+              "Local managers",
+              "see their site"
+            ],
+            [
+              "Senior managers",
+              "see the whole country"
+            ]
+          ]
+        ]
+      }
+    },
+    "cs7": {
+      "title": "Coaching data you can trust: from 1 in 4 errors to under 1%",
+      "summary": "A coaching classification tool in 11 languages: errors from about 25% to under 1%, now at 6 sites, with 83% adoption across the first 5.",
+      "situation": [
+        "At my site, coaching sessions were logged as free text. Managers could not reliably tell which coaching was about quality and which about performance."
+      ],
+      "start": {
+        "num": "~25%",
+        "label": "of coaching sessions in the wrong category, about 1 in 4"
+      },
+      "challenge": [
+        "Wrong categories made every coaching report unreliable."
+      ],
+      "impact": [
+        "I built a coaching classification tool, with Claude Opus 5.0 as my coding partner.",
+        "I ran a pilot at one site, then rolled it out to 6 sites in Spain.",
+        "I made the interface work in 11 languages, with every status shown in color and in text, so colorblind users can read it."
+      ],
+      "highlights": [
+        {
+          "num": "83%",
+          "label": "adoption across the first 5 sites, 96% at the pilot site"
+        },
+        {
+          "num": "10,000+",
+          "label": "coaching sessions classified in 13 weeks"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Coaching sessions in the wrong category",
+          "from_t": "~25%",
+          "to_t": "under 1%",
+          "from": 25,
+          "to": 1,
+          "max": 25,
+          "lower": true
+        }
+      ],
+      "result": [],
+      "lesson": "Bad data usually starts with a hard form. When the right choice is the easy choice, the data fixes itself at the source.",
+      "different": "I would have a backup working with me from day one, so the tool never depends on one person.",
+      "skills": [
+        "JavaScript",
+        "AI-assisted development (Claude Opus 5.0)",
+        "Accessibility",
+        "Change management"
+      ],
+      "problem": "About 1 in 4 coaching sessions ended up in the wrong category.",
+      "chips": [
+        {
+          "from": "~25%",
+          "to": "under 1%",
+          "label": "classification errors"
+        },
+        {
+          "from": "",
+          "to": "83%",
+          "label": "adoption across the first 5 sites"
+        }
+      ],
+      "diagram": {
+        "title": "How the coaching classification tool works",
+        "desc": "A manager logs a coaching session in the classification tool, available in 11 languages with every status in color and text. Each session is classified as quality or performance coaching, so coaching reports can be trusted.",
+        "rows": [
+          [
+            [
+              "Coaching session",
+              "logged by a manager"
+            ]
+          ],
+          [
+            [
+              "Coaching classification tool",
+              "11 languages, color + text"
+            ]
+          ],
+          [
+            [
+              "Quality",
+              "coaching"
+            ],
+            [
+              "Performance",
+              "coaching"
+            ]
+          ],
+          [
+            [
+              "Coaching reports",
+              "managers can trust"
+            ]
+          ]
+        ]
+      }
+    },
+    "cs8": {
+      "title": "A readiness planner: from 10+ minutes to under 1 minute per decision",
+      "summary": "Spreadsheets replaced by one planner across 8 shifts, now the site's official planning resource.",
+      "situation": [
+        "At my site, trainer planning and cross-training coverage lived in spreadsheets, across 8 shifts."
+      ],
+      "start": {
+        "num": "10+ minutes",
+        "label": "for each training coordination decision"
+      },
+      "challenge": [
+        "No single view of how many cross-trained associates each process had against the expected volume.",
+        "Instructors and operations agreed every plan by hand."
+      ],
+      "impact": [
+        "I built a training readiness planner that replaced the spreadsheets.",
+        "It shows cross-trained associates against the expected volume, by process and shift.",
+        "It includes an instructor planning app that writes the message for operations automatically."
+      ],
+      "highlights": [
+        {
+          "num": "100%",
+          "label": "of the expected volume covered by cross-trained associates, visible in one place"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Time per training coordination decision",
+          "from_t": "10+ minutes",
+          "to_t": "under 1 minute",
+          "from": 10,
+          "to": 1,
+          "max": 10,
+          "lower": true
+        }
+      ],
+      "result": [
+        "It became the site's official planning resource for L&D, area managers and flow leads, across 8 shifts."
+      ],
+      "lesson": "A planning tool earns its place when it answers the question people ask at the start of the shift, on one screen.",
+      "different": "I would bring area managers and flow leads into the first version, not only the trainers, so the tool fits operations from day one.",
+      "skills": [
+        "JavaScript",
+        "Workforce planning",
+        "Data modeling",
+        "Stakeholder management"
+      ],
+      "problem": "Trainer planning and cross-training coverage lived in spreadsheets, across 8 shifts.",
+      "chips": [
+        {
+          "from": "10+ min",
+          "to": "under 1 min",
+          "label": "per training coordination decision"
+        },
+        {
+          "from": "",
+          "to": "100%",
+          "label": "of the expected volume covered, in one place"
+        }
+      ],
+      "diagram": {
+        "title": "How the training readiness planner works",
+        "desc": "Cross-trained associates and the expected volume go into the training readiness planner, by process and shift. It produces the instructor plan and writes the message for operations automatically.",
+        "rows": [
+          [
+            [
+              "Cross-trained",
+              "associates"
+            ],
+            [
+              "Expected",
+              "volume"
+            ]
+          ],
+          [
+            [
+              "Training readiness planner",
+              "by process and shift"
+            ]
+          ],
+          [
+            [
+              "Instructor plan",
+              "for trainers"
+            ],
+            [
+              "Message for",
+              "operations, automatic"
+            ]
+          ]
+        ]
+      }
+    }
+  },
+  "about": {
+    "h1": "About me",
+    "story_title": "My story",
+    "story": [
+      "I started in Italy. I studied Economics at the University of Catania, I worked in financial consulting and B2B sales from 2012 to 2015, and I wrote as a freelance local news contributor for the daily newspaper La Sicilia (2012-2013).",
+      "From 2015 to 2019 I was a flight attendant with Ryanair in Barcelona: 800+ international flights in a safety-critical role.",
+      "I joined Amazon in 2019 as a Vendor Support Associate in Barcelona. From 2020 to 2026 I was a Manager in Selling Partner Support, the B2B support for EMEA selling partners, leading teams of 15-45 people, fully remote from April 2021, across 4 time zones.",
+      "Since January 2026 I have been Learning Manager I at the VLC1 Fulfillment Center in Castellón. I lead 5 trainers for 500+ associates, and the L&D tools I built are used by multiple Spanish fulfillment centers.",
+      "I live in Castellón de la Plana, Spain. I'm open to remote work (EU/EMEA) and to relocating to Galicia."
+    ],
+    "languages_title": "Languages",
+    "languages": [
+      "Spanish (native)",
+      "Italian (native)",
+      "English (C1, full professional proficiency)"
+    ],
+    "education_title": "Education",
+    "education": [
+      "Economics, University of Catania, Italy",
+      "Studying: Higher Diploma in Business Administration & Finance, Ilerna (2024-2026)"
+    ],
+    "writing_title": "Writing",
+    "writing_html": [
+      "Poems in the anthologies \"I nuovi autori 2015\" (Demito Editore, 2015) and \"Tracce\" (Pagine, 2015)",
+      "Freelance local news contributor, La Sicilia (2012-2013)"
+    ],
+    "leadership_title": "Leadership development",
+    "leadership": "Amazon leadership programs, certified behavioral interviewer and certified facilitator for mid-level leadership training.",
+    "community_title": "Community",
+    "community": "EMEA CSR ambassador: I organized 5 cross-regional volunteering initiatives with 450+ participants.",
+    "beyond_title": "Beyond work",
+    "beyond_html": "Outside work, I'm a lifelong Juventus fan and I go to the stadium whenever I can. I read a lot and I still write: my poetry collection <a href=\"https://www.amazon.com/dp/B01MTCF5WZ\" rel=\"noopener\">\"La poesia sull'albero\"</a> came out in 2016. I listen to music all day, mostly Italian. Four years as a flight attendant left me with a love of travel that never went away. At home there's Ciak, my dog. And I'm a gamer and a fantasy fan: Pokémon, Game of Thrones, The Lord of the Rings, Harry Potter, Marvel.",
+    "book": {
+      "kicker": "My book",
+      "title": "La poesia sull'albero",
+      "meta": "Poetry collection · Pagine, 2016",
+      "link": "See the book on Amazon"
+    }
+  },
+  "testimonials": {
+    "h1": "Testimonials",
+    "intro": "Recommendations that people I have worked with wrote on LinkedIn. They are shown in full, exactly as written.",
+    "linkedin": "See them on LinkedIn",
+    "original_note": "(original in English)",
+    "rel_melissa": "Direct report (I was her manager)",
+    "rel_domenico": "My manager",
+    "rel_dominika": "Direct report",
+    "rel_veronica": "Direct report",
+    "rel_augusta": "Direct report",
+    "date_melissa": "10 Nov 2026",
+    "date_domenico": "18 Apr 2023",
+    "date_dominika": "9 Sep 2024",
+    "date_veronica": "31 Jan 2023",
+    "date_augusta": "9 Feb 2023"
+  },
+  "cv": {
+    "h1": "CV",
+    "intro": "The public version of my CV. The PDF has the same content.",
+    "download": "Download PDF",
+    "pdf": "cv/Giuseppe_Adriano_Di_Benedetto_CV_EN.pdf",
+    "headline": "People, Operations & Project Manager | Customer Support, Learning & Development",
+    "location": "Castellón de la Plana, Spain | Open to remote (EU/EMEA) and relocation to Galicia",
+    "h_summary": "Summary",
+    "h_selected": "Selected achievements",
+    "h_experience": "Experience",
+    "h_skills": "Skills",
+    "h_education": "Education",
+    "h_certs": "Leadership development",
+    "h_writing": "Writing & publications",
+    "h_languages": "Languages",
+    "summary": "Operations and people manager with 7+ years at Amazon. I led B2B support teams of 15-45 people for EMEA selling partners and now, as Learning Manager, lead a team of 5 trainers for 500+ associates. I built 3 internal tools now in daily use across multiple Spanish fulfillment centers. Native Spanish and Italian, full professional English (C1).",
+    "selected": [
+      "Retained a vendor with seven-figure annual revenue that wanted to leave: a dive deep showed that only about 10 of its 40+ open cases were new issues (under 50% resolution across 300+ cases in 30 days). I built the business case for premium support, a low fixed monthly fee against six-figure monthly sales blocked; the vendor subscribed the same day and is still a premium support customer.",
+      "Turned the site's L&D scorecard around after a sharp one-month drop: back into the European top 10 within one month, and #1 in Europe for training quality for six consecutive months.",
+      "Only first-line manager in the senior worldwide lead team of a global quality pilot: designed the assessment attributes and wrote the audit form code, defined a 3-tier audit mechanism with quality managers introduced the pilot in 4 training sessions and selected 51 supervisors (plus 51 in a mirror group); negative response rate from above 65% to under 54% in 8 weeks, outcome accuracy from 78.92% to 86.92%.",
+      "Scaled a coaching classification tool from a one-site pilot to 6 sites in Spain: 10,000+ coaching sessions classified in 13 weeks at 83% adoption across the first 5 (96% at the pilot site), cutting the classification error rate from ~25% to under 1%.",
+      "Led a Kaizen program across 17 supervisors (~400 associates): 96 of 113 outlier associates on missed live contacts back on target (85%).",
+      "Automated the peak capacity gap analysis across 4 datasets (process, shift and person level, 30 shifts), giving the operations manager the data to decide the peak training plan."
+    ],
+    "experience": [
+      {
+        "title": "Learning Manager I",
+        "org": "Amazon, VLC1 Fulfillment Center",
+        "place": "Castellón, Spain",
+        "dates": "Jan 2026 - Present",
+        "scope": "Manager of 5 trainers | 500+ associates | L&D tools used by multiple Spanish fulfillment centers",
+        "bullets": [
+          "Identified an automation gap in L&D and built 3 internal tools, maintained end to end and used across multiple sites in Spain: a national learning portal, a coaching classification tool and a training readiness planner.",
+          "Replaced spreadsheet-based trainer planning with the training readiness planner, now the site's official planning resource for L&D, area managers and flow leads.",
+          "Ran the site's first coaching impact study (difference-in-differences against a matched control group, 12 weeks): +3.8pp performance (+5.6pp for new hires and cross-trained associates); reported openly that quality showed no measurable effect, after re-extracting the data (32 to 139 evaluable cases).",
+          "Raised trainer job satisfaction from 60% to 83% in 3 months and sustained it.",
+          "Own safety and compliance training (certifications, permissions, refreshers) with the Safety and Quality teams: 99.9% compliance against a 95% target over 5 months.",
+          "Built an instructor planning app that cut each training coordination decision from 10+ minutes to under 1 minute across 8 shifts, with an auto-written message for operations.",
+          "Automated recurring reporting: weekly proficiency flash, weekly peak training tracker, weekly coaching escalation report, daily trainer reminders and monthly overtime reconciliation."
+        ]
+      },
+      {
+        "title": "Manager, Selling Partner Support",
+        "org": "Amazon",
+        "place": "Spain, fully remote from April 2021",
+        "dates": "2020 - 2026",
+        "scope": "Teams of 15-45 people | B2B support for EMEA selling partners | 4 time zones",
+        "bullets": [
+          "Sustained a top-3 seller CSAT ranking in Spain (60%+) and a 5% case reopen rate against a 10% target.",
+          "Raised seller satisfaction from below 40% to 52.13% against a 50% target, by finding what drove positive responses and spreading top performers' practices.",
+          "Cut hold rate from over 15% to 3% in 3 weeks after the move to remote work, by analyzing 50 top-offender calls across 3 marketplaces and coaching agents to research cases while on the call.",
+          "Raised schedule adherence from 84.23% to 93.27% (327 bps above target) by tracing a break-tracking defect in the workforce management tool and getting it fixed.",
+          "Gave 16 associates 8 ownership roles matched to their career goals, making a 30-person team self-sustaining: job satisfaction 3.5 to 4.7 and manager satisfaction 4.2 to 5/5; 10 team members promoted in one year.",
+          "Designed an onboarding framework used for 130+ new hires: +8% accuracy and -12% handling time.",
+          "Supervised all 100+ new hires in 2023-2024 and redesigned the global new-hire tracking deck with the trainers (tracking from 45 to 90 days, site benchmarks): used for 100% of new-hire batches worldwide; new-hire quality audit accuracy from 83.5% to 89%.",
+          "Introduced weekly calibration huddles that brought audit scores on target (96.14%, 98.52%, 100%); the format was adopted site-wide (20 huddles in one quarter).",
+          "Redesigned dive deep requests with a 3-tier SLA: cases analyzed per week from 10 to 75 (+650%), later 200+; 1,500+ cases reviewed across 4 marketplaces.",
+          "Brought the reopen rate on one case type from 100% to 7.3% by proving a permissions defect with case data and agreeing a workaround with the process owner; 30 associates upskilled.",
+          "Cut live contacts on a specialist queue by 90% (about 50 to 5 per week) by negotiating a buffer with capacity planning; 24 of 30 associates reached 100% audit accuracy.",
+          "Created a 5-language response library (EN, IT, ES, DE, FR), bringing the empathy quality score from 87% to target in one quarter (+12%).",
+          "Co-designed and delivered a leadership program for future leaders (2022): 4 cohorts of 30, 120 participants, 4.7/5 satisfaction."
+        ]
+      },
+      {
+        "title": "Vendor Support Associate",
+        "org": "Amazon",
+        "place": "Barcelona, Spain",
+        "dates": "2019 - 2020",
+        "scope": "",
+        "bullets": []
+      },
+      {
+        "title": "Flight Attendant",
+        "org": "Ryanair",
+        "place": "Barcelona, Spain",
+        "dates": "2015 - 2019",
+        "scope": "",
+        "bullets": [
+          "800+ international flights in a safety-critical role."
+        ]
+      }
+    ],
+    "earlier": "Earlier: freelance local news contributor, La Sicilia daily newspaper (2012-2013); financial consulting and B2B sales, Italy (2012-2015).",
+    "skills": [
+      {
+        "label": "Operations",
+        "text": "KPI management, capacity and workforce planning, Kaizen and continuous improvement, root cause analysis, process standardization, safety compliance"
+      },
+      {
+        "label": "Support operations",
+        "text": "escalation management, seller CSAT and SLA management, quality audits, reopen and hold rate reduction, voice of the customer"
+      },
+      {
+        "label": "People and learning",
+        "text": "remote team leadership (15-45), coaching, onboarding design, training design and delivery, performance management, behavioral interviewing"
+      },
+      {
+        "label": "Tools",
+        "text": "Excel, Google Sheets, QuickSight, Quip, Slack, Asana, workforce management tools, Python and JavaScript automation, AI tools"
+      }
+    ],
+    "education": [
+      "Higher Diploma, Business Administration & Finance | Ilerna | 2024 - 2026 (in progress)",
+      "Economics | University of Catania, Italy"
+    ],
+    "certs": "Amazon leadership programs | Certified behavioral interviewer | Certified facilitator, mid-level leadership training",
+    "writing": "Author of the poetry collection \"La poesia sull'albero\" (Pagine, 2016) | Poems in the anthologies \"I nuovi autori 2015\" (Demito Editore, 2015) and \"Tracce\" (Pagine, 2015)",
+    "languages": "Spanish (native) | Italian (native) | English (C1, full professional proficiency)"
+  },
+  "contact": {
+    "h1": "Contact",
+    "intro": "The best way to reach me is by email. I'm also on LinkedIn.",
+    "email_label": "Email",
+    "linkedin_label": "LinkedIn",
+    "based": "Based in Castellón de la Plana, Spain. Open to remote work (EU/EMEA) and to relocating to Galicia."
+  },
+  "footer": {
+    "note": "Personal website. The views here are my own.",
+    "rights": "Giuseppe Adriano Di Benedetto"
+  },
+  "notfound": {
+    "h1": "Page not found",
+    "text": "This page does not exist. Try the home page.",
+    "home": "Go to the home page"
+  }
+}

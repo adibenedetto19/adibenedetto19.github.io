@@ -1,0 +1,1043 @@
+{
+  "meta": {
+    "skip": "Saltar al contenido",
+    "toggle_short": "EN",
+    "toggle_label": "EN, view in English",
+    "menu": "Menú",
+    "og_locale": "es_ES"
+  },
+  "nav": {
+    "home": "Inicio",
+    "cases": "Casos",
+    "about": "Sobre mí",
+    "testimonials": "Recomendaciones",
+    "cv": "CV",
+    "contact": "Contacto",
+    "label": "Principal"
+  },
+  "pages": {
+    "home": {
+      "title": "Giuseppe Adriano Di Benedetto | Responsable de Personas, Operaciones y Proyectos",
+      "description": "Más de 7 años en Amazon liderando personas en atención al cliente y formación. Pongo a las personas en el centro, junto con la tecnología."
+    },
+    "cases": {
+      "title": "Casos prácticos | Giuseppe Adriano Di Benedetto",
+      "description": "Ocho casos prácticos de atención al cliente, personas y herramientas, en diapositivas interactivas con las cifras de partida y los resultados."
+    },
+    "about": {
+      "title": "Sobre mí | Giuseppe Adriano Di Benedetto",
+      "description": "Mi trayectoria, de Italia y Ryanair a más de 7 años en Amazon, además de idiomas, formación y escritura."
+    },
+    "testimonials": {
+      "title": "Recomendaciones | Giuseppe Adriano Di Benedetto",
+      "description": "Cinco recomendaciones de LinkedIn de personas con las que he trabajado, completas."
+    },
+    "cv": {
+      "title": "CV | Giuseppe Adriano Di Benedetto",
+      "description": "La versión pública de mi CV, online y en PDF."
+    },
+    "contact": {
+      "title": "Contacto | Giuseppe Adriano Di Benedetto",
+      "description": "Escríbeme por email o en LinkedIn."
+    },
+    "notfound": {
+      "title": "Página no encontrada | Giuseppe Adriano Di Benedetto",
+      "description": "Esta página no existe."
+    }
+  },
+  "img": {
+    "headshot": "Giuseppe Adriano Di Benedetto, retrato",
+    "portrait": "Giuseppe Adriano Di Benedetto, sonriendo, de viaje",
+    "casual": "Giuseppe sentado en unas escaleras de piedra con su perro, Ciak"
+  },
+  "home": {
+    "headline": "Responsable de Personas, Operaciones y Proyectos",
+    "subline": "Atención al cliente · Formación y Desarrollo",
+    "value": "Más de 7 años en Amazon liderando personas en atención al cliente y formación. Pongo a las personas en el centro, junto con la tecnología.",
+    "based": "Vivo en Castellón de la Plana, España. Abierto a trabajo en remoto (UE/EMEA) y a mudarme a Galicia.",
+    "cta_cases": "Ver casos",
+    "cta_linkedin": "LinkedIn",
+    "cta_contact": "Contacto",
+    "proof_title": "En cifras",
+    "proof": [
+      {
+        "num": "7+",
+        "label": "años en Amazon"
+      },
+      {
+        "num": "300+",
+        "label": "personas lideradas en 3 departamentos: Selling Partner Support, onboarding de nuevas incorporaciones y Formación"
+      },
+      {
+        "num": "5/5",
+        "label": "de satisfacción con el manager, votada cada mes por todo mi equipo directo. El primer supervisor de EMEA en alcanzarla, con un equipo de 30 personas, el doble de lo habitual"
+      },
+      {
+        "num": "10",
+        "label": "promociones en un año, la cifra más alta para un solo equipo en mi departamento"
+      },
+      {
+        "num": "5",
+        "label": "años consecutivos con una evaluación por encima de las expectativas"
+      }
+    ],
+    "featured_title": "Casos prácticos",
+    "featured_all": "Ver los 8 casos en diapositivas interactivas",
+    "quotes_title": "Lo que dicen de mí",
+    "quotes_more": "Leer las recomendaciones completas",
+    "contact_title": "Hablemos",
+    "contact_text": "¿Buscas a alguien que lidere personas y mejore cómo se hace el trabajo? Escríbeme.",
+    "contact_email": "Escríbeme",
+    "contact_linkedin": "Conecta en LinkedIn",
+    "intro_title": "Hola, soy Adriano",
+    "intro": [
+      "Soy responsable de personas, operaciones y proyectos, y pongo el talento humano en el centro de todo lo que hago, junto con la tecnología.",
+      "Mi visión es un equipo en el que todos se sienten importantes y todos reman en la misma dirección. Un buen manager no lo sabe todo: sabe de qué personas rodearse. Aprendo de mi equipo y le doy todo lo que sé.",
+      "En más de 7 años en Amazon he trabajado con clientes y vendors en soporte, después lideré el onboarding de nuevas incorporaciones y luego pasé a Formación y Desarrollo. He llevado proyectos a escala local, nacional e internacional, siempre con un enfoque estructurado, una causa raíz clara y resultados tangibles.",
+      "Si estás formando un equipo en el que las personas y la tecnología crecen juntas, me encantaría saberlo."
+    ],
+    "bring_title": "Lo que aporto",
+    "bring": [
+      {
+        "title": "De los números a la acción",
+        "text": "Analizo los datos a fondo, encuentro la causa raíz y la convierto en un plan que la gente puede seguir."
+      },
+      {
+        "title": "Empoderamiento",
+        "text": "Doy a las personas roles de responsabilidad reales, para que el equipo funcione por sí solo. En un año se promocionaron 10 personas de mi equipo."
+      },
+      {
+        "title": "Gestión de stakeholders",
+        "text": "Desde los asociados de primera línea hasta los program managers globales, aporto la visión de operaciones y la respaldo con datos."
+      },
+      {
+        "title": "Comunicación clara",
+        "text": "Por escrito y en persona, adaptada a quien escucha. Facilitador certificado de formación en liderazgo para mandos intermedios."
+      },
+      {
+        "title": "Mejora continua",
+        "text": "Con la IA como compañera de programación construí 3 herramientas que hoy se usan en varios centros, sin equipo de desarrollo."
+      },
+      {
+        "title": "Los retos son oportunidades",
+        "text": "Un problema difícil es donde un equipo bien liderado crece más allá de lo que nadie esperaba."
+      }
+    ],
+    "badges": [
+      "Facilitador certificado, liderazgo para mandos intermedios",
+      "Creador de herramientas con IA y automatización: 3 herramientas, varios centros",
+      "3 idiomas: inglés, español, italiano"
+    ],
+    "badges_label": "Además",
+    "story": "De la aviación a people manager en Amazon, y ahora creo mis propias herramientas con IA.",
+    "featured_more": "Más casos prácticos"
+  },
+  "tags": {
+    "label": "Áreas",
+    "support": "Soporte",
+    "people": "Personas",
+    "learning": "Formación",
+    "operations": "Operaciones",
+    "tools": "Herramientas"
+  },
+  "cases_page": {
+    "h1": "Casos prácticos",
+    "intro": "Ocho historias de mi trabajo en Amazon, en tres grupos: soporte, personas y herramientas. Cada una es una presentación breve: la situación, el reto con las cifras de partida, lo que hice yo, el resultado y lo que haría diferente.",
+    "tabs_label": "Elige un caso",
+    "group_label": "Grupo"
+  },
+  "cs_t": {
+    "situation": "Situación",
+    "challenge": "Reto",
+    "impact": "Mi impacto",
+    "result": "Resultado",
+    "lesson": "Aprendizaje",
+    "learned": "Qué aprendí",
+    "different": "Qué haría diferente",
+    "skills": "Competencias",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "progress": "Diapositiva {n} de {total}",
+    "before": "Antes",
+    "after": "Después",
+    "deck_label": "Diapositivas",
+    "quote_title": "De alguien que estaba en este equipo",
+    "quote_link": "Leer la recomendación completa",
+    "chip_from": "de",
+    "chip_to": "a",
+    "diagram_label": "Cómo funciona",
+    "side_steps": "pasos, solo lo que hice yo"
+  },
+  "cs": {
+    "cs1": {
+      "title": "El vendor que quería irse",
+      "summary": "Su historial de casos mostraba por qué quería irse. Ese mismo día decidió quedarse.",
+      "situation": [
+        "Como manager de Selling Partner Support, un vendor de gran volumen se puso en contacto conmigo porque quería irse."
+      ],
+      "start": {
+        "num": "Menos del 50%",
+        "label": "de resolución en sus más de 300 casos de los 30 días anteriores"
+      },
+      "challenge": [
+        "Más de 40 casos abiertos cuando me contactó, y más de 300 casos en los 30 días anteriores.",
+        "Solo unos 10 de esos más de 40 casos abiertos eran incidencias nuevas. Todos los demás eran seguimientos o problemas sin resolver, explicados desde cero cada vez.",
+        "Según la propia estimación del vendor, tenía ventas mensuales de seis cifras bloqueadas."
+      ],
+      "impact": [
+        "Hice un análisis a fondo del historial de casos, que mostró ese bucle de seguimientos.",
+        "Llamé directamente al vendor.",
+        "Le expliqué la opción de soporte premium: un servicio dedicado y de pago, con canales directos y más margen de actuación.",
+        "Preparé el business case: una cuota mensual fija y baja, una fracción mínima de las ventas en riesgo. El objetivo era llevar la resolución de menos del 50% a al menos un 65-70%, reduciendo las pérdidas más o menos a la mitad, sin renunciar al resto de sus ventas en Amazon."
+      ],
+      "highlights": [
+        {
+          "num": "El mismo día",
+          "label": "el vendor contrató el soporte premium y se quedó"
+        },
+        {
+          "num": "Siete cifras",
+          "label": "de facturación anual: un vendor retenido que hoy sigue en soporte premium"
+        }
+      ],
+      "bars": [],
+      "result": [
+        "El vendor pasó a un nivel de soporte dedicado con una tasa de resolución mucho más alta."
+      ],
+      "lesson": "El riesgo de que un cliente se vaya aparece en el historial de casos mucho antes que en la facturación.",
+      "different": "No esperaría a que un vendor amenace con irse: varios casos abiertos a la vez ya son una señal. A partir de ahí lo convertí en rutina: cada lunes revisaba los casos del equipo por vendor y por estado (resueltos, reabiertos, enviados a soporte técnico) para detectar patrones a tiempo.",
+      "skills": [
+        "Gestión de escalados",
+        "Análisis de causa raíz",
+        "Redacción de business cases",
+        "Voz del cliente"
+      ],
+      "problem": "Un vendor de gran volumen quería irse tras más de 300 casos en 30 días.",
+      "chips": [
+        {
+          "from": "",
+          "to": "El mismo día",
+          "label": "el vendor contrató el soporte premium y se quedó"
+        }
+      ]
+    },
+    "cs2": {
+      "title": "Un piloto global de calidad, con la mirada de primera línea",
+      "summary": "El único manager de primera línea en un equipo líder mundial: las respuestas negativas pasaron de más del 65% a menos del 54% en 8 semanas.",
+      "situation": [
+        "Reducir las respuestas negativas de los vendedores se convirtió en la prioridad del negocio.",
+        "Se anunció un piloto mundial en una mesa redonda y los supervisores se resistieron, preocupados por la carga de trabajo. Compartí el punto de vista de operaciones con el líder sénior que lo impulsaba y me invitó a unirme al equipo que lo dirigía."
+      ],
+      "start": {
+        "num": "Más del 65%",
+        "label": "de tasa de respuestas negativas, con el objetivo de bajar del 50%"
+      },
+      "challenge": [
+        "La precisión del resultado estaba en el 78,92% y la tasa de reapertura en el 14,25%.",
+        "No había atributos comunes para evaluar una interacción con un vendedor, ni una forma estructurada de decidir quién necesitaba coaching primero.",
+        "Los supervisores dudaban de que el objetivo fuera realista y temían más carga de trabajo."
+      ],
+      "impact": [
+        "Fui el único manager de primera línea en un equipo líder mundial de perfil sénior.",
+        "Diseñé los atributos de evaluación y escribí el código del formulario de auditoría, con el apoyo del equipo de desarrollo en la implementación.",
+        "Con los responsables de calidad definí un mecanismo de auditoría en 3 niveles para marcar la urgencia del coaching, y permití delegar auditorías en expertos en la materia.",
+        "Presenté el piloto en 4 sesiones de formación y seleccioné a 51 supervisores, más otros 51 de un grupo espejo. 2 sesiones abiertas de preguntas por semana cubrían todos los husos horarios.",
+        "Dirigí el piloto de 6 semanas, con controles semanales de cumplimiento y actualizaciones periódicas."
+      ],
+      "highlights": [
+        {
+          "num": "8 semanas",
+          "label": "para bajar la tasa de respuestas negativas por debajo del 54%"
+        },
+        {
+          "num": "Mundial",
+          "label": "los atributos de evaluación que diseñé se convirtieron después en el estándar global de calidad"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Tasa de respuestas negativas",
+          "from_t": "más del 65%",
+          "to_t": "menos del 54%",
+          "from": 65,
+          "to": 54,
+          "max": 100,
+          "lower": true
+        },
+        {
+          "label": "Precisión del resultado",
+          "from_t": "78,92%",
+          "to_t": "86,92%",
+          "from": 78.92,
+          "to": 86.92,
+          "max": 100,
+          "lower": false
+        },
+        {
+          "label": "Tasa de reapertura",
+          "from_t": "14,25%",
+          "to_t": "13,07%",
+          "from": 14.25,
+          "to": 13.07,
+          "max": 20,
+          "lower": true
+        }
+      ],
+      "result": [
+        "Los supervisores pasaron de resistirse a pedir participar en futuros pilotos, y el mecanismo de auditoría por niveles se adoptó más allá del piloto."
+      ],
+      "lesson": "Un proyecto con bases sólidas trae beneficios que nadie había previsto. El objetivo era la tasa de respuestas negativas, pero trabajar la calidad de los casos también subió la precisión del resultado 8 puntos.",
+      "different": "Prepararía el plan de formación antes del lanzamiento. Las sesiones abiertas de preguntas ayudaron, pero un curso corto y un recurso de apoyo habrían hecho el nuevo método mucho más fácil para managers y equipos.",
+      "skills": [
+        "Diseño de programas",
+        "Auditorías de calidad",
+        "Gestión de stakeholders",
+        "Gestión del cambio"
+      ],
+      "problem": "Las respuestas negativas seguían por encima del objetivo y los supervisores temían más carga.",
+      "chips": [
+        {
+          "from": "más del 65%",
+          "to": "menos del 54%",
+          "label": "tasa de respuestas negativas"
+        },
+        {
+          "from": "78,92%",
+          "to": "86,92%",
+          "label": "precisión del resultado"
+        },
+        {
+          "from": "14,25%",
+          "to": "13,07%",
+          "label": "tasa de reapertura"
+        }
+      ]
+    },
+    "cs3": {
+      "title": "Desbloquear a más de 100 titulares de marca sin esperar al arreglo",
+      "summary": "Una asignación de roles que fallaba, demostrada con un usuario de prueba y con datos: tasa de reapertura del 100% al 7,3%, y más de 300 casos resueltos en 5 semanas.",
+      "situation": [
+        "En 2022 dirigía el único equipo especializado en soporte de marcas en ese momento.",
+        "Una marca global del sector del entretenimiento y otros titulares de marca de EMEA escalaron el problema: tras completar el e-learning obligatorio, sus representantes seguían sin recibir el rol de marca, así que no podían gestionar listings, campañas, permisos ni imágenes de marca."
+      ],
+      "start": {
+        "num": "0%",
+        "label": "de estos casos resueltos: el 100% se reabría"
+      },
+      "challenge": [
+        "La resolución en toda la cola era inferior al 10%.",
+        "El procedimiento no ayudaba y los casos pendientes no paraban de crecer."
+      ],
+      "impact": [
+        "Repliqué todo el proceso con un usuario de prueba: certificado emitido, pero el rol seguía sin aparecer.",
+        "Descubrí que el paso de asignación del rol nunca se activaba, y que asignarlo a mano requería la aprobación del Program Manager.",
+        "Con los datos de la cola demostré que era un fallo en todo EMEA y lo llevé al Program Manager global y al vendor manager de la marca.",
+        "El arreglo técnico necesitaba unas 6 semanas, así que propuse una vía de tickets dedicada para asignar el rol a mano. Se aceptó.",
+        "Formé a 30 asociados en la nueva vía."
+      ],
+      "highlights": [
+        {
+          "num": "300+",
+          "label": "casos resueltos en 5 semanas"
+        },
+        {
+          "num": "100+",
+          "label": "titulares de marca desbloqueados"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Tasa de reapertura en esta incidencia",
+          "from_t": "100%",
+          "to_t": "7,3%",
+          "from": 100,
+          "to": 7.3,
+          "max": 100,
+          "lower": true
+        },
+        {
+          "label": "Resolución en toda la cola",
+          "from_t": "menos del 10%",
+          "to_t": "en torno al 85%",
+          "from": 10,
+          "to": 85,
+          "max": 100,
+          "lower": false
+        }
+      ],
+      "result": [
+        "Lo que quedaba eran las incidencias normales de cualquier cola de soporte, y después llegó el arreglo técnico definitivo."
+      ],
+      "lesson": "Corregir la causa raíz, demostrarla con datos, implicar a las personas adecuadas y no dejar a los clientes esperando seis semanas al arreglo definitivo.",
+      "different": "Enseñaría a mis asociados a levantar la mano cuando se acumulan casos parecidos. Un caso es un ticket; diez casos parecidos son un patrón que necesita una mirada de causa raíz.",
+      "skills": [
+        "Análisis de causa raíz",
+        "Diseño de procesos",
+        "Gestión de stakeholders",
+        "Gestión de escalados"
+      ],
+      "problem": "Los titulares de marca completaban el e-learning obligatorio pero nunca recibían el rol de marca.",
+      "chips": [
+        {
+          "from": "100%",
+          "to": "7,3%",
+          "label": "tasa de reapertura"
+        },
+        {
+          "from": "menos del 10%",
+          "to": "en torno al 85%",
+          "label": "resolución de la cola"
+        },
+        {
+          "from": "",
+          "to": "300+",
+          "label": "casos resueltos en 5 semanas"
+        }
+      ]
+    },
+    "cs4": {
+      "title": "De un equipo de 30 a 10 promociones en un año",
+      "summary": "Roles de responsabilidad para un equipo remoto de 30 personas: satisfacción laboral de 3,5 a 4,7 y 10 promociones en un año.",
+      "situation": [
+        "En 2021 mi equipo creció a 30 personas, en remoto, dentro de un piloto de equipos más grandes."
+      ],
+      "start": {
+        "num": "3,5 / 5",
+        "label": "de satisfacción laboral en el punto más bajo, con la satisfacción con el manager en 4,2"
+      },
+      "challenge": [
+        "Con 30 personas hay menos tiempo individual, y un riesgo real de que las relaciones se vuelvan impersonales."
+      ],
+      "impact": [
+        "Di a 16 asociados 8 roles de responsabilidad alineados con sus objetivos profesionales, para que el equipo funcionara por sí solo. Cada rol enviaba un resumen de una página al mes, y los roles se rotaban cada trimestre.",
+        "Me eligieron responsable de las nuevas incorporaciones y del onboarding, y construí la estructura con mi equipo: más de 130 nuevas incorporaciones y más de 100 entrevistas estructuradas.",
+        "El equipo de roles de responsabilidad apoyó a las nuevas incorporaciones durante su adaptación. Mi coordinadora practicó el rol de supervisora como su mentora, con una guía del rol que escribí yo. El rol se convirtió en el estándar nacional del departamento.",
+        "Abrí sesiones semanales de simulación de entrevistas, 2 horas a la semana durante 6 meses. Las 10 personas que luego se promocionaron participaron."
+      ],
+      "highlights": [
+        {
+          "num": "10",
+          "label": "personas del equipo promocionadas en un año"
+        },
+        {
+          "num": "91%",
+          "label": "de superación del periodo de prueba entre las personas que contraté"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Satisfacción laboral",
+          "from_t": "3,5/5",
+          "to_t": "4,7/5",
+          "from": 3.5,
+          "to": 4.7,
+          "max": 5,
+          "lower": false
+        },
+        {
+          "label": "Satisfacción con el manager",
+          "from_t": "4,2/5",
+          "to_t": "5/5",
+          "from": 4.2,
+          "to": 5,
+          "max": 5,
+          "lower": false
+        }
+      ],
+      "result": [
+        "Mi coordinadora pasó a su primer puesto de liderazgo, y su equipo de nuevas incorporaciones fue el número 1 en calidad de todo el centro durante un mes entero.",
+        "Onboarding: +8% de precisión y -12% de tiempo de gestión."
+      ],
+      "lesson": "Un equipo grande es a la vez un riesgo y una oportunidad. Cuantas más personas lideras, menos tiempo individual tienes. Por eso la gente tiene que sentirse parte de algo y ver a su manager en los detalles: los seguimientos, el feedback, la propia delegación. Y algo de competitividad sana.",
+      "different": "No haría voluntarios todos los roles de responsabilidad: formar a todos los voluntarios exigió un esfuerzo enorme al principio. Elegiría a una persona por rol, entre quienes querían hacerlo, y la emparejaría con alguien con ganas de aprender.",
+      "skills": [
+        "Liderazgo de personas",
+        "Desarrollo del talento",
+        "Entrevistas conductuales",
+        "Diseño de onboarding"
+      ],
+      "problem": "Mi equipo remoto creció a 30 personas y la satisfacción laboral bajó.",
+      "chips": [
+        {
+          "from": "3,5",
+          "to": "4,7",
+          "label": "satisfacción laboral"
+        },
+        {
+          "from": "4,2",
+          "to": "5/5",
+          "label": "satisfacción con el manager"
+        },
+        {
+          "from": "",
+          "to": "10",
+          "label": "promociones en un año"
+        }
+      ]
+    },
+    "cs5": {
+      "title": "Más de 100 nuevas incorporaciones: seguimiento hasta el día 90, adoptado a nivel global",
+      "summary": "Seguir a las nuevas incorporaciones hasta el día 90 en lugar del 45: la precisión en las auditorías de calidad pasó del 83,5% al 89%, y hoy se usa con todas las promociones de nuevas incorporaciones del mundo.",
+      "situation": [
+        "En 2023-2024 supervisé a todas las nuevas incorporaciones de mi departamento: más de 100 personas, en varias especialidades y marketplaces.",
+        "La presentación global con la que se les hacía seguimiento terminaba a los 45 días, mezclaba el feedback de distintos centros y no tenía referencias."
+      ],
+      "start": {
+        "num": "83,5%",
+        "label": "de precisión en las auditorías de calidad de las nuevas incorporaciones"
+      },
+      "challenge": [
+        "En mi propio equipo, la tasa de reapertura era del 12,4%, con un objetivo del 8,5%, y la antigüedad era inferior a 1 año.",
+        "La presentación llegaba justo antes de la reunión de revisión, sin tiempo para analizarla."
+      ],
+      "impact": [
+        "Conseguí la aprobación de la dirección para rediseñar la presentación.",
+        "Con los formadores añadí una vista por centro frente a una referencia histórica, amplié el seguimiento de 45 a 90 días, creé una plantilla de feedback común y pasé el envío al lunes, antes de la revisión.",
+        "Dentro de mi equipo creé un grupo de análisis a fondo con 5 roles de responsabilidad: revisión semanal de casos, coaching en 3 niveles y un email automático ante errores evitables."
+      ],
+      "highlights": [
+        {
+          "num": "100%",
+          "label": "de las promociones de nuevas incorporaciones del mundo seguidas con la nueva presentación"
+        },
+        {
+          "num": "Más de 1.500",
+          "label": "casos revisados por el grupo de análisis a fondo de mi equipo"
+        },
+        {
+          "num": "3 de 3",
+          "label": "asociados de mi equipo con plan de mejora mejoraron y salieron de él"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Precisión en auditorías de calidad (nuevas incorporaciones)",
+          "from_t": "83,5%",
+          "to_t": "89%",
+          "from": 83.5,
+          "to": 89,
+          "max": 100,
+          "lower": false
+        },
+        {
+          "label": "Tasa de reapertura en mi equipo, en 3 meses",
+          "from_t": "12,4%",
+          "to_t": "8,5%",
+          "from": 12.4,
+          "to": 8.5,
+          "max": 15,
+          "lower": true
+        }
+      ],
+      "result": [
+        "El tiempo de gestión mejoró alrededor de un 8%.",
+        "El modelo de análisis a fondo se extendió a toda la organización: 12 roles de responsabilidad y 1 coordinador."
+      ],
+      "lesson": "La formación no termina el último día de clase. Los primeros 90 días deciden lo bueno que llega a ser alguien nuevo, así que esa es la ventana que hay que medir y acompañar.",
+      "different": "Prepararía la referencia y la vista de 90 días antes de que empiece la primera promoción, en lugar de rediseñar la presentación cuando ya estaba en marcha.",
+      "skills": [
+        "Diseño de onboarding",
+        "Coaching de calidad",
+        "Análisis de datos",
+        "Gestión de stakeholders"
+      ],
+      "problem": "La presentación global de nuevas incorporaciones terminaba a los 45 días y no tenía referencias.",
+      "chips": [
+        {
+          "from": "83,5%",
+          "to": "89%",
+          "label": "precisión en auditorías de calidad de nuevas incorporaciones"
+        },
+        {
+          "from": "12,4%",
+          "to": "8,5%",
+          "label": "tasa de reapertura en mi equipo"
+        },
+        {
+          "from": "",
+          "to": "100%",
+          "label": "de las promociones del mundo con seguimiento"
+        }
+      ]
+    },
+    "cs6": {
+      "title": "Un portal nacional de formación, construido sin equipo de desarrollo",
+      "summary": "Construido yo solo con Claude Opus 5.0: la gestión administrativa pasó de 3 a 7 horas a 1 a 2 horas por formador y semana, en 10 centros.",
+      "situation": [
+        "Los formadores y los managers locales de la red de centros logísticos de Amazon en España gestionaban unas 20 tareas recurrentes con procesos y fuentes de datos distintos. La dirección no tenía una visión nacional."
+      ],
+      "start": {
+        "num": "De 3 a 7 horas",
+        "label": "de gestión administrativa por formador, cada semana"
+      },
+      "challenge": [
+        "No había una forma coherente de supervisar la calidad, el rendimiento y las horas de los formadores en todos los centros."
+      ],
+      "impact": [
+        "Diseñé y construí yo solo un portal nacional de formación, con Claude Opus 5.0 como compañero de programación, desde la primera idea hasta el despliegue.",
+        "De la primera versión a la 3.5.9, con más de 190 actualizaciones incrementales guiadas por el feedback de los formadores.",
+        "Un único punto de acceso: los managers locales ven su centro y la dirección ve todo el país."
+      ],
+      "highlights": [
+        {
+          "num": "100%",
+          "label": "de los instructores del país cumpliendo sus objetivos de rendimiento, calidad y horas"
+        },
+        {
+          "num": "10 centros",
+          "label": "de España lo usan a diario"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Gestión administrativa por formador y semana",
+          "from_t": "3 a 7 horas",
+          "to_t": "1 a 2 horas",
+          "from": 7,
+          "to": 2,
+          "max": 7,
+          "lower": true
+        },
+        {
+          "label": "Satisfacción de los usuarios (sobre 5)",
+          "from_t": "3,8",
+          "to_t": "4,4",
+          "from": 3.8,
+          "to": 4.4,
+          "max": 5,
+          "lower": false
+        }
+      ],
+      "result": [
+        "La dirección tiene ahora la visión nacional en un solo lugar."
+      ],
+      "lesson": "No siempre hace falta un equipo de desarrollo ni un proyecto tecnológico largo. Primero hay que entender el problema operativo y después usar bien la IA.",
+      "different": "Documentaría a medida que construyo: la lógica, las fuentes de datos y los cálculos, en una guía que también sirva para formar a quien venga después.",
+      "skills": [
+        "JavaScript",
+        "Desarrollo con IA (Claude Opus 5.0)",
+        "Modelado de datos",
+        "Investigación con formadores"
+      ],
+      "problem": "Los formadores perdían horas cada semana en gestión y la dirección no tenía visión nacional.",
+      "chips": [
+        {
+          "from": "3 a 7 h",
+          "to": "1 a 2 h",
+          "label": "de gestión por formador y semana"
+        },
+        {
+          "from": "3,8",
+          "to": "4,4",
+          "label": "satisfacción de los usuarios"
+        },
+        {
+          "from": "",
+          "to": "10 centros",
+          "label": "lo usan a diario en España"
+        }
+      ],
+      "diagram": {
+        "title": "Cómo funciona el portal nacional de formación",
+        "desc": "Las tareas de los formadores y las distintas fuentes de datos entran en un único portal nacional de formación. Los managers locales ven su centro y la dirección ve todo el país.",
+        "rows": [
+          [
+            [
+              "Tareas de formación",
+              "unas 20, recurrentes"
+            ],
+            [
+              "Fuentes de datos",
+              "procesos distintos"
+            ]
+          ],
+          [
+            [
+              "Portal nacional de formación",
+              "un único punto de acceso"
+            ]
+          ],
+          [
+            [
+              "Managers locales",
+              "ven su centro"
+            ],
+            [
+              "Dirección",
+              "ve todo el país"
+            ]
+          ]
+        ]
+      }
+    },
+    "cs7": {
+      "title": "Datos de coaching fiables: de 1 error de cada 4 a menos del 1%",
+      "summary": "Una herramienta de clasificación del coaching en 11 idiomas: los errores pasaron de alrededor del 25% a menos del 1%, hoy en 6 centros, con un 83% de adopción en los 5 primeros.",
+      "situation": [
+        "En mi centro, los coachings se registraban como texto libre. Los managers no podían saber con seguridad qué coaching era de calidad y cuál de rendimiento."
+      ],
+      "start": {
+        "num": "~25%",
+        "label": "de los coachings en la categoría equivocada, aproximadamente 1 de cada 4"
+      },
+      "challenge": [
+        "Las categorías equivocadas hacían poco fiable cualquier informe de coaching."
+      ],
+      "impact": [
+        "Construí una herramienta de clasificación del coaching, con Claude Opus 5.0 como compañero de programación.",
+        "Hice un piloto en un centro y después la extendí a 6 centros de España.",
+        "La interfaz funciona en 11 idiomas, y cada estado se muestra en color y en texto, para que las personas daltónicas puedan leerlo."
+      ],
+      "highlights": [
+        {
+          "num": "83%",
+          "label": "de adopción en los 5 primeros centros, 96% en el centro piloto"
+        },
+        {
+          "num": "Más de 10.000",
+          "label": "coachings clasificados en 13 semanas"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Coachings en la categoría equivocada",
+          "from_t": "~25%",
+          "to_t": "menos del 1%",
+          "from": 25,
+          "to": 1,
+          "max": 25,
+          "lower": true
+        }
+      ],
+      "result": [],
+      "lesson": "Los datos malos suelen empezar con un formulario difícil. Cuando la opción correcta es la opción fácil, los datos se corrigen en el origen.",
+      "different": "Tendría a alguien trabajando conmigo como respaldo desde el primer día, para que la herramienta nunca dependa de una sola persona.",
+      "skills": [
+        "JavaScript",
+        "Desarrollo con IA (Claude Opus 5.0)",
+        "Accesibilidad",
+        "Gestión del cambio"
+      ],
+      "problem": "Aproximadamente 1 de cada 4 coachings acababa en la categoría equivocada.",
+      "chips": [
+        {
+          "from": "~25%",
+          "to": "menos del 1%",
+          "label": "errores de clasificación"
+        },
+        {
+          "from": "",
+          "to": "83%",
+          "label": "de adopción en los 5 primeros centros"
+        }
+      ],
+      "diagram": {
+        "title": "Cómo funciona la herramienta de clasificación del coaching",
+        "desc": "Un manager registra un coaching en la herramienta de clasificación, disponible en 11 idiomas y con cada estado en color y en texto. Cada coaching se clasifica como de calidad o de rendimiento, así los informes de coaching son fiables.",
+        "rows": [
+          [
+            [
+              "Coaching",
+              "registrado por un manager"
+            ]
+          ],
+          [
+            [
+              "Herramienta de clasificación",
+              "11 idiomas, color + texto"
+            ]
+          ],
+          [
+            [
+              "Coaching",
+              "de calidad"
+            ],
+            [
+              "Coaching",
+              "de rendimiento"
+            ]
+          ],
+          [
+            [
+              "Informes de coaching",
+              "fiables para los managers"
+            ]
+          ]
+        ]
+      }
+    },
+    "cs8": {
+      "title": "Un planificador de formación: de más de 10 minutos a menos de 1 por decisión",
+      "summary": "Las hojas de cálculo sustituidas por un solo planificador en 8 turnos, hoy el recurso oficial de planificación del centro.",
+      "situation": [
+        "En mi centro, la planificación de los formadores y la cobertura de formación cruzada estaban en hojas de cálculo, en 8 turnos."
+      ],
+      "start": {
+        "num": "Más de 10 minutos",
+        "label": "para cada decisión de coordinación de la formación"
+      },
+      "challenge": [
+        "No había una vista única de cuántos asociados con formación cruzada tenía cada proceso frente al volumen previsto.",
+        "Instructores y operaciones acordaban cada plan a mano."
+      ],
+      "impact": [
+        "Construí un planificador de formación que sustituyó a las hojas de cálculo.",
+        "Muestra los asociados con formación cruzada frente al volumen previsto, por proceso y turno.",
+        "Incluye una app de planificación para instructores que redacta automáticamente el mensaje para operaciones."
+      ],
+      "highlights": [
+        {
+          "num": "100%",
+          "label": "del volumen previsto cubierto con asociados con formación cruzada, visible en un solo lugar"
+        }
+      ],
+      "bars": [
+        {
+          "label": "Tiempo por decisión de coordinación de la formación",
+          "from_t": "más de 10 minutos",
+          "to_t": "menos de 1 minuto",
+          "from": 10,
+          "to": 1,
+          "max": 10,
+          "lower": true
+        }
+      ],
+      "result": [
+        "Se convirtió en el recurso oficial de planificación del centro para L&D, area managers y flow leads, en los 8 turnos."
+      ],
+      "lesson": "Una herramienta de planificación se gana su sitio cuando responde, en una sola pantalla, a la pregunta que la gente se hace al empezar el turno.",
+      "different": "Incluiría a los area managers y a los flow leads en la primera versión, no solo a los formadores, para que la herramienta encaje con operaciones desde el primer día.",
+      "skills": [
+        "JavaScript",
+        "Planificación de plantilla",
+        "Modelado de datos",
+        "Gestión de stakeholders"
+      ],
+      "problem": "La planificación de los formadores y la formación cruzada estaban en hojas de cálculo, en 8 turnos.",
+      "chips": [
+        {
+          "from": "más de 10 min",
+          "to": "menos de 1 min",
+          "label": "por decisión de coordinación de la formación"
+        },
+        {
+          "from": "",
+          "to": "100%",
+          "label": "del volumen previsto cubierto, en un solo lugar"
+        }
+      ],
+      "diagram": {
+        "title": "Cómo funciona el planificador de formación",
+        "desc": "Los asociados con formación cruzada y el volumen previsto entran en el planificador de formación, por proceso y turno. Genera el plan de los instructores y redacta automáticamente el mensaje para operaciones.",
+        "rows": [
+          [
+            [
+              "Asociados con",
+              "formación cruzada"
+            ],
+            [
+              "Volumen",
+              "previsto"
+            ]
+          ],
+          [
+            [
+              "Planificador de formación",
+              "por proceso y turno"
+            ]
+          ],
+          [
+            [
+              "Plan de",
+              "instructores"
+            ],
+            [
+              "Mensaje para",
+              "operaciones, automático"
+            ]
+          ]
+        ]
+      }
+    }
+  },
+  "about": {
+    "h1": "Sobre mí",
+    "story_title": "Mi historia",
+    "story": [
+      "Empecé en Italia. Estudié Economía en la Universidad de Catania, trabajé en asesoría financiera y ventas B2B de 2012 a 2015, y escribí como colaborador freelance de noticias locales para el diario La Sicilia (2012-2013).",
+      "De 2015 a 2019 fui tripulante de cabina de Ryanair en Barcelona: más de 800 vuelos internacionales en un puesto crítico para la seguridad.",
+      "Entré en Amazon en 2019 como Vendor Support Associate en Barcelona. De 2020 a 2026 fui Manager en Selling Partner Support, el soporte B2B para vendedores de EMEA, al frente de equipos de 15 a 45 personas, totalmente en remoto desde abril de 2021, en 4 husos horarios.",
+      "Desde enero de 2026 soy Learning Manager I en el centro logístico VLC1 de Castellón. Dirijo a 5 formadores para más de 500 asociados, y las herramientas de L&D que construí las usan varios centros logísticos de España.",
+      "Vivo en Castellón de la Plana, España. Estoy abierto a trabajar en remoto (UE/EMEA) y a mudarme a Galicia."
+    ],
+    "languages_title": "Idiomas",
+    "languages": [
+      "Español (nativo)",
+      "Italiano (nativo)",
+      "Inglés (C1, competencia profesional completa)"
+    ],
+    "education_title": "Formación",
+    "education": [
+      "Economía, Universidad de Catania, Italia",
+      "Cursando: Técnico Superior en Administración y Finanzas, Ilerna (2024-2026)"
+    ],
+    "writing_title": "Escritura",
+    "writing_html": [
+      "Poemas en las antologías \"I nuovi autori 2015\" (Demito Editore, 2015) y \"Tracce\" (Pagine, 2015)",
+      "Colaborador freelance de noticias locales, La Sicilia (2012-2013)"
+    ],
+    "leadership_title": "Desarrollo de liderazgo",
+    "leadership": "Programas de liderazgo de Amazon, entrevistador conductual certificado y facilitador certificado de formación en liderazgo para mandos intermedios.",
+    "community_title": "Comunidad",
+    "community": "Embajador de RSC en EMEA: organicé 5 iniciativas de voluntariado entre regiones con más de 450 participantes.",
+    "beyond_title": "Más allá del trabajo",
+    "beyond_html": "Fuera del trabajo, soy de la Juventus de toda la vida y voy al estadio siempre que puedo. Leo mucho y sigo escribiendo: mi poemario <a href=\"https://www.amazon.com/dp/B01MTCF5WZ\" rel=\"noopener\">\"La poesia sull'albero\"</a> salió en 2016. Escucho música todo el día, sobre todo italiana. Cuatro años como tripulante de cabina me dejaron un amor por los viajes que nunca se ha ido. En casa está Ciak, mi perro. Y soy gamer y fan de la fantasía: Pokémon, Juego de Tronos, El Señor de los Anillos, Harry Potter, Marvel.",
+    "book": {
+      "kicker": "Mi libro",
+      "title": "La poesia sull'albero",
+      "meta": "Poemario · Pagine, 2016",
+      "link": "Ver el libro en Amazon"
+    }
+  },
+  "testimonials": {
+    "h1": "Recomendaciones",
+    "intro": "Recomendaciones que escribieron en LinkedIn personas con las que he trabajado. Se muestran completas, tal y como se escribieron.",
+    "linkedin": "Verlas en LinkedIn",
+    "original_note": "(original in English)",
+    "rel_melissa": "Me reportaba directamente (yo era su manager)",
+    "rel_domenico": "Mi manager",
+    "rel_dominika": "Me reportaba directamente",
+    "rel_veronica": "Me reportaba directamente",
+    "rel_augusta": "Me reportaba directamente",
+    "date_melissa": "10 nov 2026",
+    "date_domenico": "18 abr 2023",
+    "date_dominika": "9 sep 2024",
+    "date_veronica": "31 ene 2023",
+    "date_augusta": "9 feb 2023"
+  },
+  "cv": {
+    "h1": "CV",
+    "intro": "La versión pública de mi CV. El PDF tiene el mismo contenido.",
+    "download": "Descargar PDF",
+    "pdf": "cv/Giuseppe_Adriano_Di_Benedetto_CV_ES.pdf",
+    "headline": "Responsable de Personas, Operaciones y Proyectos | Atención al cliente, Formación y Desarrollo",
+    "location": "Castellón de la Plana, España | Abierto a remoto (UE/EMEA) y a mudarme a Galicia",
+    "h_summary": "Perfil",
+    "h_selected": "Logros destacados",
+    "h_experience": "Experiencia",
+    "h_skills": "Competencias",
+    "h_education": "Formación",
+    "h_certs": "Desarrollo de liderazgo",
+    "h_writing": "Escritura y publicaciones",
+    "h_languages": "Idiomas",
+    "summary": "Manager de operaciones y personas con más de 7 años en Amazon. Dirigí equipos de soporte B2B de 15 a 45 personas para vendedores de EMEA y ahora, como Learning Manager, dirijo un equipo de 5 formadores para más de 500 asociados. Construí 3 herramientas internas que hoy se usan en varios centros logísticos de España. Español e italiano nativos, inglés profesional completo (C1).",
+    "selected": [
+      "Retuve a un vendor con una facturación anual de siete cifras que quería irse: un análisis a fondo mostró que solo unos 10 de sus más de 40 casos abiertos eran problemas nuevos (menos del 50% de resolución en más de 300 casos en 30 días). Preparé el business case del soporte premium, una cuota mensual fija y baja frente a ventas mensuales bloqueadas de seis cifras; el vendor lo contrató ese mismo día y sigue siendo cliente del soporte premium.",
+      "Di la vuelta al scorecard de L&D del centro tras una fuerte caída en un mes: de vuelta al top 10 europeo en un mes, y número 1 de Europa en calidad de la formación durante seis meses seguidos.",
+      "Único manager de primera línea en el equipo líder mundial de perfil sénior de un piloto global de calidad: diseñé los atributos de evaluación y escribí el código del formulario de auditoría, definí un mecanismo de auditoría en 3 niveles con los responsables de calidad presenté el piloto en 4 sesiones de formación y seleccioné a 51 supervisores (más 51 de un grupo espejo); respuestas negativas de más del 65% a menos del 54% en 8 semanas, precisión del resultado del 78,92% al 86,92%.",
+      "Extendí una herramienta de clasificación del coaching de un piloto en un centro a 6 centros en España: más de 10.000 sesiones de coaching clasificadas en 13 semanas con un 83% de adopción en los 5 primeros (96% en el centro piloto), reduciendo el error de clasificación de ~25% a menos del 1%.",
+      "Dirigí un programa Kaizen con 17 supervisores (~400 asociados): 96 de 113 asociados con desviaciones en contactos en directo perdidos volvieron al objetivo (85%).",
+      "Automaticé el análisis de brechas de capacidad para el peak con 4 fuentes de datos (a nivel de proceso, turno y persona, 30 turnos), que dio al responsable de operaciones los datos para decidir el plan de formación del peak."
+    ],
+    "experience": [
+      {
+        "title": "Learning Manager I",
+        "org": "Amazon, centro logístico VLC1",
+        "place": "Castellón, España",
+        "dates": "ene 2026 - actualidad",
+        "scope": "Manager de 5 formadores | más de 500 asociados | herramientas de L&D usadas por varios centros logísticos de España",
+        "bullets": [
+          "Detecté una carencia de automatización en L&D y construí 3 herramientas internas, mantenidas de principio a fin y en uso en varios centros de España: un portal nacional de formación, una herramienta de clasificación del coaching y un planificador de formación.",
+          "Sustituí la planificación de formadores en hojas de cálculo por el planificador de formación, hoy el recurso oficial de planificación del centro para L&D, area managers y flow leads.",
+          "Hice el primer estudio de impacto del coaching del centro (diferencias en diferencias frente a un grupo de control emparejado, 12 semanas): +3,8 pp en rendimiento (+5,6 pp para nuevas incorporaciones y asociados con formación cruzada); informé abiertamente de que la calidad no mostró un efecto medible, tras volver a extraer los datos (de 32 a 139 casos evaluables).",
+          "Subí la satisfacción laboral de los formadores del 60% al 83% en 3 meses y la mantuve.",
+          "Me encargo de la formación de seguridad y cumplimiento (certificaciones, permisos, refrescos) con los equipos de Seguridad y Calidad: 99,9% de cumplimiento frente a un objetivo del 95% durante 5 meses.",
+          "Construí una app de planificación de instructores que redujo cada decisión de coordinación de la formación de más de 10 minutos a menos de 1 minuto en 8 turnos, con un mensaje para operaciones redactado automáticamente.",
+          "Automaticé los informes recurrentes: flash semanal de competencia, seguimiento semanal de la formación de peak, informe semanal de escalados de coaching, recordatorios diarios a formadores y conciliación mensual de horas extra."
+        ]
+      },
+      {
+        "title": "Manager, Selling Partner Support",
+        "org": "Amazon",
+        "place": "España, totalmente en remoto desde abril de 2021",
+        "dates": "2020 - 2026",
+        "scope": "Equipos de 15 a 45 personas | soporte B2B para vendedores de EMEA | 4 husos horarios",
+        "bullets": [
+          "Mantuve un top 3 en España en CSAT de vendedores (más del 60%) y una tasa de reapertura de casos del 5% frente a un objetivo del 10%.",
+          "Subí la satisfacción de los vendedores de menos del 40% al 52,13% frente a un objetivo del 50%, encontrando qué generaba respuestas positivas y extendiendo las prácticas de las personas con mejor rendimiento.",
+          "Reduje la tasa de espera de más del 15% al 3% en 3 semanas tras el paso al remoto, analizando las 50 llamadas con más espera en 3 marketplaces y enseñando a los agentes a investigar los casos durante la llamada.",
+          "Subí la adherencia al horario del 84,23% al 93,27% (327 pb por encima del objetivo) al encontrar un fallo en el registro de pausas de la herramienta de gestión de personal y conseguir que se corrigiera.",
+          "Di a 16 asociados 8 roles de responsabilidad alineados con sus objetivos profesionales e hice autosuficiente a un equipo de 30 personas: satisfacción laboral de 3,5 a 4,7 y satisfacción con el manager de 4,2 a 5/5; 10 personas del equipo promocionadas en un año.",
+          "Diseñé un marco de onboarding usado con más de 130 nuevas incorporaciones: +8% de precisión y -12% de tiempo de gestión.",
+          "Supervisé a todas las nuevas incorporaciones de 2023-2024 (más de 100) y rediseñé con los formadores la presentación global de seguimiento (de 45 a 90 días, referencias por centro): usada para el 100% de las promociones de nuevas incorporaciones del mundo; precisión en auditorías de calidad del 83,5% al 89%.",
+          "Introduje reuniones semanales de calibración que llevaron las puntuaciones de auditoría al objetivo (96,14%, 98,52%, 100%); el formato se adoptó en todo el centro (20 reuniones en un trimestre).",
+          "Rediseñé las peticiones de análisis a fondo con un SLA de 3 niveles: casos analizados por semana de 10 a 75 (+650%), y después más de 200; más de 1.500 casos revisados en 4 marketplaces.",
+          "Bajé la tasa de reapertura en un tipo de caso del 100% al 7,3% demostrando un fallo de permisos con datos de casos y acordando una solución alternativa con el responsable del proceso; 30 asociados formados.",
+          "Reduje un 90% los contactos en directo en una cola especializada (de unos 50 a 5 por semana) negociando un margen con planificación de capacidad; 24 de 30 asociados alcanzaron el 100% de precisión en auditoría.",
+          "Creé una biblioteca de respuestas en 5 idiomas (EN, IT, ES, DE, FR) que llevó la puntuación de calidad en empatía del 87% al objetivo en un trimestre (+12%).",
+          "Codiseñé e impartí un programa de liderazgo para futuros líderes (2022): 4 ediciones de 30 personas, 120 participantes, 4,7/5 de satisfacción."
+        ]
+      },
+      {
+        "title": "Vendor Support Associate",
+        "org": "Amazon",
+        "place": "Barcelona, España",
+        "dates": "2019 - 2020",
+        "scope": "",
+        "bullets": []
+      },
+      {
+        "title": "Tripulante de cabina",
+        "org": "Ryanair",
+        "place": "Barcelona, España",
+        "dates": "2015 - 2019",
+        "scope": "",
+        "bullets": [
+          "Más de 800 vuelos internacionales en un puesto crítico para la seguridad."
+        ]
+      }
+    ],
+    "earlier": "Antes: colaborador freelance de noticias locales, diario La Sicilia (2012-2013); asesoría financiera y ventas B2B, Italia (2012-2015).",
+    "skills": [
+      {
+        "label": "Operaciones",
+        "text": "gestión de KPI, planificación de capacidad y de personal, Kaizen y mejora continua, análisis de causa raíz, estandarización de procesos, cumplimiento en seguridad"
+      },
+      {
+        "label": "Operaciones de soporte",
+        "text": "gestión de escalados, gestión de CSAT de vendedores y SLA, auditorías de calidad, reducción de reaperturas y tiempos de espera, voz del cliente"
+      },
+      {
+        "label": "Personas y formación",
+        "text": "liderazgo de equipos en remoto (15-45), coaching, diseño de onboarding, diseño e impartición de formación, gestión del desempeño, entrevistas conductuales"
+      },
+      {
+        "label": "Herramientas",
+        "text": "Excel, Google Sheets, QuickSight, Quip, Slack, Asana, herramientas de gestión de personal, automatización con Python y JavaScript, herramientas de IA"
+      }
+    ],
+    "education": [
+      "Técnico Superior en Administración y Finanzas | Ilerna | 2024 - 2026 (en curso)",
+      "Economía | Universidad de Catania, Italia"
+    ],
+    "certs": "Programas de liderazgo de Amazon | Entrevistador conductual certificado | Facilitador certificado, formación en liderazgo para mandos intermedios",
+    "writing": "Autor del poemario \"La poesia sull'albero\" (Pagine, 2016) | Poemas en las antologías \"I nuovi autori 2015\" (Demito Editore, 2015) y \"Tracce\" (Pagine, 2015)",
+    "languages": "Español (nativo) | Italiano (nativo) | Inglés (C1, competencia profesional completa)"
+  },
+  "contact": {
+    "h1": "Contacto",
+    "intro": "La mejor forma de contactarme es por email. También estoy en LinkedIn.",
+    "email_label": "Email",
+    "linkedin_label": "LinkedIn",
+    "based": "Vivo en Castellón de la Plana, España. Abierto a trabajo en remoto (UE/EMEA) y a mudarme a Galicia."
+  },
+  "footer": {
+    "note": "Web personal. Las opiniones expresadas aquí son solo mías.",
+    "rights": "Giuseppe Adriano Di Benedetto"
+  },
+  "notfound": {
+    "h1": "Página no encontrada",
+    "text": "Esta página no existe. Prueba con la página de inicio.",
+    "home": "Ir a la página de inicio"
+  }
+}
